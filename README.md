@@ -7,6 +7,14 @@ keyword
  
  one
  
- various language to one language
+ various language and one language
  
+ equality
+
+ freedom
+
+ virtual
+
+ internet
+
  
