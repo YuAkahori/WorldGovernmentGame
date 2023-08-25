@@ -1,4 +1,6 @@
-# What is World Government Game ?
+# What is the World Government Game ?
+
+
 
 [Link to the GAME (japanese edition)](http://153.127.39.194/a1/post_index.php)
 
