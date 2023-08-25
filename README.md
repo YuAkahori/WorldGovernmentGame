@@ -2,6 +2,7 @@
 
 [Link to the GAME (japanese edition)](http://153.127.39.194/a1/post_index.php)
 
+I am looking for collaborators.
 
 keyword
 
