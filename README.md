@@ -9,5 +9,4 @@ The virtual earth is the map of the game.
 [Link to the GAME (under construction,English edition)]
 
 I am looking for collaborators.
-
-ab 
+ 
