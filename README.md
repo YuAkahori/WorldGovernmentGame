@@ -5,6 +5,9 @@ The virtual earth is the map of the game.<br>
 The World Government Game consists of<br> 
 * 1.Virtual World and Virtual Country Information<br>
 	* 1-1.Constitution and Laws<br>
+	* 1-2.History<br>
+	* 1-3.Population<br>
+	* 1-4.Leaders<br>
 * 2.World Government <br>
 * 3.<br>
 
