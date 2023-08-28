@@ -11,11 +11,11 @@ The World Government Game consists of
 	1-5. Family and land registry<br>
 	1-6. Leaders<br>
 2. World Government services to the world's people<br>
-	2-1 Education via the internet
-	2-2 Entertainment via the internet
-	2-3 Storage Personal Information
+	2-1. Education via the internet<br>
+	2-2. Entertainment via the internet<br>
+	2-3. Storage Personal Information<br>
 3. World Government services to virtual countries<br>
-	3-1 Management of family and land registers around the world
+	3-1. Management of family and land registers around the world
 	
 [Link to the GAME (under development,Japanese edition)](http://153.127.39.194/a1/post_index.php)
 
