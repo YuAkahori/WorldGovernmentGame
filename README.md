@@ -1,11 +1,8 @@
 # What is the World Government Game ?
 
-The World Government Game is a game of governing a virtual Earth.
-
-The virtual earth is the map of the game.
-
-The World Government Game contains
-  
+The World Government Game is a game of governing a virtual Earth.<br>
+The virtual earth is the map of the game.<br>
+The World Government Game contains<br> 
   1.Virtual World Information<br>
   2.Virtual Country Information<br>
   3.Virtual World Constitution and Laws<br>
