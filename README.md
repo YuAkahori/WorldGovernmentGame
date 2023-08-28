@@ -7,7 +7,9 @@ The World Government Game consists of<br>
 	* 1-1.Constitution and Laws<br>
 	* 1-2.History<br>
 	* 1-3.Population<br>
-	* 1-4.Leaders<br>
+	* 1-4.Accounting and tax<br>
+	* 1-5.Family and land registry<br>
+	* 1-6.Leaders<br>
 * 2.World Government services to the world's people<br>
 	* 2-1 Education via the internet
 	* 2-2 Entertainment via the internet
