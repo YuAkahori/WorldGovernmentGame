@@ -15,10 +15,10 @@ The World Government Game consists of
 	2-2. Entertainment via the internet<br>
 	2-3. Storage Personal Information<br>
 3. World Government services to virtual countries<br>
-	3-1. Management of family and land registers around the world
-	3-2. Services to train leaders
-	3-3. Electoral services between the head of state and the people
-4. World Government services within the World Government
+	3-1. Management of family and land registers around the world<br>
+	3-2. Services to train leaders<br>
+	3-3. Electoral services between the head of state and the people<br>
+4. World Government services within the World Government<br>
 	
 	
 [Link to the GAME (under development,Japanese edition)](http://153.127.39.194/a1/post_index.php)
