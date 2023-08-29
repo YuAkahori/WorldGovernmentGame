@@ -10,6 +10,7 @@ The World Government Game consists of
 	1-4. Accounting and tax<br>
 	1-5. Family and land registry<br>
 	1-6. Leaders<br>
+	1-7. Map<br>
 2. World Government services to the world's people<br>
 	2-1. Education via the internet<br>
 	2-2. Entertainment via the internet<br>
