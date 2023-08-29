@@ -15,6 +15,7 @@ The World Government Game consists of
 	2-1. Education via the internet<br>
 	2-2. Entertainment via the internet<br>
 	2-3. Storage Personal Information<br>
+	2-4. Provide a virtual place to discuss politics <br>
 3. World Government services to virtual countries<br>
 	3-1. Management of family and land registers around the world<br>
 	3-2. Services to train leaders<br>
