@@ -1,8 +1,0 @@
-DROP FUNCTION IF EXISTS print(TEXT);
-
-CREATE OR REPLACE FUNCTION print(message TEXT)
-RETURNS VOID AS $$
-  BEGIN
-    RAISE INFO '%', message;
-  END;
-$$ LANGUAGE plpgsql;
