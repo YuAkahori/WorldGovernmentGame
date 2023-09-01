@@ -26,7 +26,7 @@ $con ->beginTransaction();
 $communication = $_POST['communication'];
 //print ($communication.'<br>');
 //$communication = pg_escape_string(htmlspecialchars($communication));
-$stmt = $con->prepare ("insert into wgg_comm_sc.wgg_comm_w1_co81_pro1_ci1_pl1_p1_tb (communication) values(:comm)");
+$stmt = $con->prepare ("insert into wgg_comm_sc.wgg_comm_anonymous_tb (communication) values(:comm)");
 //$stmt-> bindParam(':comm',$communicaton);
 $res= $stmt ->execute(array(':comm'=>$communication));
 $con->commit();
@@ -34,7 +34,7 @@ $con->commit();
 $con->setAttribute (PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
 //$res->setAttribute (PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
 
-$rs = "select id,first_timestamp,communication from wgg_comm_sc.wgg_comm_w1_co81_pro1_ci1_pl1_p1_tb order by id desc";
+$rs = "select id,first_timestamp,communication from wgg_comm_sc.wgg_comm_anonymous_tb order by id desc";
 foreach ($con->query($rs) as $row )
   { print($row['id']);
     print('  '.$row['first_timestamp']);
