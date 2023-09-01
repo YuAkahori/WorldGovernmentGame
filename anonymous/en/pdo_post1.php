@@ -17,10 +17,10 @@ try{
 
     print('Successfully connected.<br>');
     $dbh->setAttribute (PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
-    $sql = 'select * from comm';
+    $sql = 'select * from wgg_comm_sc.wgg_comm_anonymous_tb';
     foreach ($dbh->query($sql) as $row) {
-        print($row['id']);
-        print(($row['communication']).'<br>');
+        print('id='.$row['id']);
+        print((';comment='.$row['communication']).'<br>');
     }
 }catch (PDOException $e){
     print('You do not have permission to connect.');

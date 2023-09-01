@@ -2,14 +2,14 @@
 <html lang="ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf8">
-<title>文章の挿入</title>
+<title>Wrire your comment.</title>
 </head>
 <body>
 <form method="post" action="post_register2.php">
-内容の編集：<input type="text" size="80" name="communication",value="">
-<input type="submit" value="送信">
+Edit comment<input type="text" size="80" name="communication",value="">
+<input type="submit" value="submit">
 </form>
-<button onclick="location.href='post_index.php'">戻る</button><br>
+<button onclick="location.href='post_index.php'">back</button><br>
 
 
 <?php
