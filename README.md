@@ -12,7 +12,7 @@ The World Government Game consists of
 	1-6. Leaders<br>
 	1-7. Map<br>
 2. World Government services to the world's people<br>
-    2-1. Information real and virtual social problems facing the world.<br>
+    2-1. Inform real and virtual social problems facing the world.<br>
     2-2. Education via the internet<br>
 	2-3. Entertainment via the internet<br>
 	2-4. Storage Personal Information<br>
