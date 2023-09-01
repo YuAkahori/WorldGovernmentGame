@@ -25,7 +25,7 @@ The World Government Game consists of
 	4-2. Short-term target and percentage achieved<br>	
 	
 
-[Link to the GAME (English editon)](http://153.127.39.194/git/wgg/anonymous/en/post_register2.php)<br>
+[Link to the GAME (English editon)](http://153.127.39.194/git/wgg/anonymous/en/post_index.php)<br>
 [Link to the GAME (prototype version,Japanese edition)i](http://153.127.39.194/a1/post_index.php)
 
 
