@@ -4,7 +4,7 @@
 
 <?php
 
-$conn = "host=153.127.39.194 dbname=wgg_db user=wgg_dbmaster password=adgj1192";
+$conn = "host=153.127.39.194 dbname=wgg_db user=wgg_a3 password=111111";
 $link = pg_connect($conn);
 if (!$link) {
     die('接続失敗です。'.pg_last_error());

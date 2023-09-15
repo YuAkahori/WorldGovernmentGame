@@ -15,12 +15,16 @@ include('login_header.php');
 try{
     $dbh = new PDO($dsn, $user, $password);
 
+<<<<<<< HEAD
     print('Successfully connected. <br>');
+=======
+    print('Successfully connected.<br>');
+>>>>>>> f3ac5158d475fea1a3857629cdd2fb5acb1e000a
     $dbh->setAttribute (PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
-    $sql = 'select * from comm';
+    $sql = 'select * from wgg_comm_sc.wgg_comm_anonymous_tb';
     foreach ($dbh->query($sql) as $row) {
-        print($row['id']);
-        print(($row['communication']).'<br>');
+        print('id='.$row['id']);
+        print((';comment='.$row['communication']).'<br>');
     }
 }catch (PDOException $e){
     print('You do not have permission to connect.');

@@ -128,8 +128,8 @@ button {
 </style>
 
 
-            <button type="submit" name="bt_connect" >接続テスト</button>
-            <button type="submit" name="bt_add">登録する</button>
+            <button type="submit" name="bt_connect" >List comments</button>
+            <button type="submit" name="bt_add">Write your impressions</button>
             <button type="submit" name="bt_country">国内地図</button>
             <button type="submit" name="bt_list">リスト表示</button>
             <button type="submit" name="bt_remove">削除する</button>
