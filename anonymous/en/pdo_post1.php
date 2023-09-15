@@ -15,7 +15,7 @@ include('login_header.php');
 try{
     $dbh = new PDO($dsn, $user, $password);
 
-    print('接続に成功しました。<br>');
+    print('Successfully connected. <br>');
     $dbh->setAttribute (PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
     $sql = 'select * from comm';
     foreach ($dbh->query($sql) as $row) {
@@ -23,7 +23,7 @@ try{
         print(($row['communication']).'<br>');
     }
 }catch (PDOException $e){
-    print('public.commの検索許可がありません。');
+    print('You do not have permission to connect.');
     die();
 }
 
